@@ -12,3 +12,9 @@ It includes data preprocessing, feature extraction, model training, and performa
 ### Notebook 3: ANN Model Preprocessing using the Heart Disease Dataset
 This notebook focuses on preprocessing the Heart Disease dataset for training an Artificial Neural Network (ANN). 
 It includes data cleaning, feature selection, normalization, and splitting the dataset to ensure optimal model performance.
+### Notebook 4: ANN with Different Activation Functions
+This notebook explores the impact of different activation functions on the performance of an Artificial Neural Network (ANN). 
+It compares various activation functions such as ReLU, Sigmoid, and Tanh in terms of training efficiency and model accuracy.
+### Notebook 5: ANN for Multi-Class Classification
+This notebook focuses on building an Artificial Neural Network (ANN) for multi-class classification. 
+It covers data preprocessing, model architecture design, training, and performance evaluation.
