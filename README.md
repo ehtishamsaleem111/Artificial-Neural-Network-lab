@@ -17,4 +17,4 @@ This notebook explores the impact of different activation functions on the perfo
 It compares various activation functions such as ReLU, Sigmoid, and Tanh in terms of training efficiency and model accuracy.
 ### * Notebook 5: ANN for Multi-Class Classification
 This notebook focuses on building an Artificial Neural Network (ANN) for multi-class classification. 
-It covers data preprocessing, model architecture design, training, and performance evaluation.
+It covers data preprocessing, model architecture design, training, and performance evaluation. 
