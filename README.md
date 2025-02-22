@@ -23,3 +23,17 @@ It compares various activation functions such as ReLU, Sigmoid, and Tanh in term
 ### Notebook 5: ANN for Multi-Class Classification
 This notebook focuses on building an Artificial Neural Network (ANN) for multi-class classification. 
 It covers data preprocessing, model architecture design, training, and performance evaluation. 
+
+## Why This Repository?
+* Step-by-step implementation with detailed explanations.
+* Hands-on experience with real datasets.
+* Practical insights into model optimization and evaluation.
+* Useful for students, researchers, and AI enthusiasts exploring neural networks.
+> Explore the notebooks and enhance your ANN knowledge. Contributions and feedback are welcome.
+
+
+
+
+
+
+
