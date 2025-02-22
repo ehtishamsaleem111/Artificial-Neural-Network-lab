@@ -31,5 +31,3 @@ It covers data preprocessing, model architecture design, training, and performan
 * Useful for students, researchers, and AI enthusiasts exploring neural networks.
 > Explore the notebooks and enhance your ANN knowledge. Contributions and feedback are welcome.
 
-
-
