@@ -1,8 +1,8 @@
 # Artificial-Neural-Network-lab
 
-This repository contains all my lab notebooks from the Artificial Neural Network (ANN) course. 
-It includes practical implementations, experiments, and solutions covered during the ANN lab sessions. 
-Each notebook provides detailed insights into neural network concepts, model building, training, and evaluation.
+> This repository contains all my lab notebooks from the Artificial Neural Network (ANN) course. 
+> It includes practical implementations, experiments, and solutions covered during the ANN lab sessions. 
+> Each notebook provides detailed insights into neural network concepts, model building, training, and evaluation.
 
 ### Notebook 1: Implementation of Custom Fit Function
 This notebook demonstrates the implementation of a custom fit function for training neural networks. 
